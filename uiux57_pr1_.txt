@@ -1,0 +1,126 @@
+   BHAVANS COLLEGE AUTONOMOUS, ANDHERI WEST
+              PRACTICAL JOURNAL
+Class: _TYBSCIT_                  Sem:     6              Roll No : TYIT 57
+
+Course Name: UI/UX Design for Entrepreneurs         Course Number:BH.USITS6P1
+
+
+                                  Practical No. 1
+Study the process of creating a graphical interface.
+
+What is GUI design?
+GUI design, or graphical user interface design, refers to the graphics of
+digital interfaces such as computers and mobile devices. A GUI design
+utilizes elements such as text, icons and images, as well as components, to allow
+a user to navigate and interact with a GUI.
+
+How does a GUI design work?
+A GUI uses graphics to implement changes, and to allow control over a
+digital product, website or app. With the graphical aspect of a GUI comes
+endless possibilities. A user can click on buttons to take them to a new page,
+scroll through a list, type in input fields, toggle settings on and off, and much
+more.
+
+The difference between GUI and UI
+
+GUIs and UIs are very similar, and this is due to the fact that a GUI is a subset
+of a UI. User interface is the broad term for all interactions between a user and a
+machine, and this includes users interacting with a computer via a mouse or
+keyboard, or with a mobile via a screen. So, whilst a user interface can interact
+with the machine, a graphical user interface cannot. A GUI is purely the
+graphics of a UI. However, the term UI design is also used to refer to the look,
+feel and — you guessed it — the graphics of digital products. Which is why the
+line between GUI design and UI design can become blurred.
+
+GUI design examples.
+The home screen of your chosen device uses a graphical user interface design to
+allow you to click and open up your browser. The GUI design of your browser
+allows you to search, and select a website. From here you can then interact with
+
+
+
+                                                               Teacher’s Signature
+   BHAVANS COLLEGE AUTONOMOUS, ANDHERI WEST
+              PRACTICAL JOURNAL
+Class: _TYBSCIT_                 Sem:    6              Roll No : TYIT 57
+
+Course Name: UI/UX Design for Entrepreneurs       Course Number:BH.USITS6P1
+
+
+the GUI website design of your choice. There is layer upon layer of GUI
+designs within one device, and even the apps you download yourself use a GUI.
+
+Examples of GUI operating systems
+Windows and MacOS are the two main examples of GUI operating systems.
+And they allow a user to interact with not only the desktop GUI design, but to
+also access other GUI designs via an internet connection.
+How to design a GUI: Step-by-step
+   1. Wireframing your GUI design.
+The first step is to create basic wireframe screens for your project. You will
+need to know how many design screens your project will consist of, and roughly
+the user flow between screens. Sketch your GUI design by hand on a piece of
+paper, or digitally using a GUI design tool. You don’t need to add loads of detail
+here, just placeholder outlines of elements and components will suffice.
+
+
+
+
+   2. Designing a GUI mockup
+The next step is to add more detail to your GUI wireframe, and this will turn
+your wireframe into a mockup. You will require a GUI design tool at this stage,
+and from here you can add color, detailed elements such as images, and small
+sections of text.
+
+
+                                                             Teacher’s Signature
+   BHAVANS COLLEGE AUTONOMOUS, ANDHERI WEST
+              PRACTICAL JOURNAL
+Class: _TYBSCIT_                  Sem:     6              Roll No : TYIT 57
+
+Course Name: UI/UX Design for Entrepreneurs        Course Number:BH.USITS6P1
+
+
+
+
+   3. Create a GUI design prototype
+You started with an idea for how your app or website should look. Now, you're
+making a rough sketch to show how everything connects and works together.
+This step is called "prototyping."
+You add in some details like text and other design stuff to make it look nice.
+Then, you ask a few people to try it out and see if they can easily use it. This is
+to catch any problems and make sure it's user-friendly.
+Once it looks good and works well, you hand it over to a developer. They're the
+ones who can turn your design into a real, clickable thing that people can use.
+They make it come alive!
+
+
+
+
+                                                               Teacher’s Signature
+   BHAVANS COLLEGE AUTONOMOUS, ANDHERI WEST
+              PRACTICAL JOURNAL
+Class: _TYBSCIT_                 Sem:     6              Roll No : TYIT 57
+
+Course Name: UI/UX Design for Entrepreneurs       Course Number:BH.USITS6P1
+
+
+
+
+What are the advantages of GUI design?
+1. User-Friendly: GUI designs, though more advanced than CLIs, remain
+simple to use. Logical layouts and helpful graphics guide users seamlessly,
+making interaction second nature.
+
+2. Aesthetic Appeal: GUIs are visually pleasing, employing bold colors on
+websites and recognizable icons. Users appreciate the attractive and easy-to-
+identify design elements.
+
+3. Accessibility: GUI designs have significantly improved inclusivity on digital
+devices. Users with disabilities find it easier to interact comfortably, marking a
+positive shift from less inclusive interfaces in the past.
+
+
+
+
+                                                             Teacher’s Signature
+

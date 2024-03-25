@@ -1,0 +1,167 @@
+Practical No.
+Creating a working prototype using Figma tool.
+What is prototyping?
+* Prototype is a working/ functional representation of the product which is used to test the product with participants in user testing before building the product.
+* Prototyping is a crucial step in the design process, that helps designers to visualise their ideas, test the various different concepts, reduce risks beforehand and in the end, create user-centric and successful products.
+* This helps the designers to focus on the user experience by putting themselves in the user's shoes while testing the prototypes before sending the designs to the client/ stakeholders and then ultimately to the development team.
+The Role of prototyping:
+Visualising Ideas
+Prototypes bring the static design concepts to life, this helps the designers and stakeholders visualise their ideas and bring them to life.
+Testing and Validation
+Prototypes are used for early testing and validation of design concepts. By creating prototypes the designers can gather user feedback and identify potential issues and design flaws before sending it out for expensive development process.
+User Centred Design
+With the help of prototypes, the designers can put themselves in the end-user's shoes,
+this ensures creating designs that cater to user needs and wants.
+Reducing Risks
+Prototyping helps in identifying and address the errors early, before handing over to the development team. By identifying and addressing design problems early, designers can reduce the chances of costly errors or redesigns during the later stages of development.
+
+Steps:-
+Step 1: In your high fidelity design , Select the Prototype from the right bar
+
+
+
+
+
+select an interactive area for the connection.
+
+
+
+Step 2: Click the + icon to create the connection and drag it to the destination frame.
+
+
+
+
+Step 3: Figma will automatically make the first frame a starting point if no existing connections exist.
+
+
+
+Step 4: You can create connections from multiple objects to the same destination frame simultaneously.
+
+
+
+Step 5: Open the Prototype tab in the right sidebar.
+
+
+
+Step 6: Add Interactions: Set up interactions between frames. Specify triggers (such as clicking or hovering) and actions (like navigating to another frame).
+
+
+
+
+
+Step 7: Preview your prototype by clicking the play button in the Prototype tab.
+
+
+
+
+Output:
+
+
+
+
+Practical No:
+Develop the complete UI design process.
+What is User Interface Design?
+User interface design is the front face of your product and users interact with it when they come to use your product. UI design behaves as a layer between the user and the functionality that your product is providing.
+While creating a UI design the designer must have a good knowledge of user interface elements and controls like buttons, menus, text boxes, lists, dialogs, icons, etc. By combining all these elements on screens, designers create a product that attracts users with its look and feel.
+7 Step process of UI design:
+After a team of designers, developers, and product managers conducts thorough user research, the user interface design process takes place in the later phases of the product development process.
+In this way, integrating the appropriate styles and interactions to produce the optimum user experience builds upon what the UX design process has outlined.
+
+
+1. Set design goals
+The first step in the UI design process is to specify the goal your team needs to accomplish. Design solves the problem therefore to provide the solution you first need to understand the problem. For this purpose, the design teams rely on design briefs. A design brief is a document that outlines all the essential components of the design project. The design brief gives the designer an idea of what the user needs in the product and what type of design will fulfill his needs and requirements.
+While creating the design brief the following points must be listed:
+* Highlight goals and objectives
+* Target audience details
+* Scope
+* Success criteria
+* Project team
+* Deadline
+
+2. Conduct user research
+The purpose of user research is to determine the problems the users are facing and what they need to do to resolve those problems. Putting ourselves in users' shoes helps us find the way they are thinking and behaving.
+Few methods and tools that help to conduct successful user research.
+* Research
+* Interview + observation
+* Survey
+
+3. Empathize with users
+This stage of the design process is very critical and has a great impact on the outcome of the product. Understanding the users' needs and thinking of the best possible solution can be done when you know your users. For example, if you are designing a product for doctors, then you will design the product according to their requirements. A doctor can need a patient record, appointment details, invoices, and types of treatments provided to the patient. Now UI/UX designers will only know about all these requirements if they have carried out the process of empathizing with users.
+
+
+
+
+Below are tools and methods to help you better understand your users.
+
+Empathy map
+
+
+An empathy map is a simple visual tool that captures knowledge about users' behaviors and attitudes.It is important to use empathy maps from the beginning of the design process to prioritize users' needs. A traditional empathy map captures four levels of information: what the user says, What the user thinks, what the user does, and what the user feels when he/she is working on a product or a usability study. This information helps you to
+* Develop a common and shared understanding of users
+* Discover weaknesses in your user research
+* Uncover user needs that sometimes even they don't know about
+
+
+
+Personas
+
+
+Personas help to define a standard representation of your users' behaviors, challenges, and motivations. Personas make it easier to define user segments and target them while making design decisions. Defining personas is important for a product as they drive the design decisions at each stage of the process.
+Scenarios
+Define specific user scenarios where a specific user wants to achieve a specific goal using your product. Then think about the best possible experience for users to complete that scenario. Only when you know who will do what on your product, and how and why they do it, then you can define a design that closely matches the actual requirements.
+
+
+
+Storyboard
+
+
+The storyboard allows you to create a low-fidelity visual that focuses on users and their actions, thoughts, goals, emotions, and relationships. This covers a specific situation or scenario and helps you to view the sequence of actions that the user will perform to complete that scenario. A short description of the scenario is mentioned on the storyboard. Sharing storyboards among stakeholders helps you get feedback and improve your ideas.
+4. Choose a design concept
+During this stage of the process, a UI designer starts creating a digital product's graphical user interface. This includes defining layouts, deciding the information architecture, creating icons, selecting the color theme, defining typography styles, and setting UI guidelines.
+Ideation map
+
+
+Ideation is the process of implementing various ideas and seeing how they work. By following this approach you can figure out both positive and negative aspects of your idea. By feeling the problems coming from negative aspects, and the positive feelings coming from positive aspects, you can finally figure out the solution for the problem and make a final design that will be successful.
+A visual ideation map helps you better organize these feelings and hence makes it easier to decide on a solution. List down the negative feelings on the left side, and the positive feelings on the right side, and then compare and think about the possible solutions.
+Moodboard
+
+
+A moodboard defines the visual look of your product design. By combining a collection of images, styles, text, colors, and icons, you can present the layout of your product that helps a wider audience to understand the purpose of your product. By arranging UI elements in different ways, you can create multiple moodboards and then decide on the best one based on the audience feedback.
+5. Prototype the design
+With the screen layouts defined, during this stage your team can begin design work in the form of sketches. Paper sketches, whiteboard flows, and wireframes help you share your design ideas with stakeholders at the early stages of the process. This makes it easier to get feedback and do multiple iterations. The objective is to create a usable design to achieve user satisfaction
+Working on your wireframes can begin once the appropriate sketch has been determined for each screen. These low-fidelity mockups outline each screen's visual hierarchy and structural principles. After getting finalized, you can move to the high-fidelity design images with detailing and color themes.
+Flowcharts
+
+
+The user flow charts represent the flow of the screens the user will go through to perform certain tasks using your product. The flowchart begins with the entry point to your product, like a home page or a login screen, and ends with the exit point where the user completes the process by following several steps in the flow. User flows help designers depict the experience that users will get while interacting with the product.
+Wireframe
+
+
+Wireframing involves the visualization of the skeleton of the digital products and applications. The wireframe shows which interface elements will be present on crucial pages of the application. Therefore it is an essential process in UI design.
+For wireframing, you can use multiple tools like Figma, Sketch, Axure and Balsamiq.
+After wireframing, you can design visual images and link the screens in a prototyping tool to create a digital prototype of your product. A prototype helps to visualize the product design in a way that is very similar to the working product. A few popular prototyping tools are Figma, Sketch, and Adobe XD.
+6. Test and iterate
+A team can test the usability of the prototype as soon as it is finished. Unlike QA testing and A/B testing, the major objective of usability testing is to get opinions from actual users of a product to determine how user-friendly the interface is and whether the user can accomplish their objectives using the product.After successful usability testing the designer now documents and evaluates the test results.
+
+
+There are several types of usability testing as mentioned below.
+* Comparative usability testing
+* Explorative usability testing
+* Usability evaluation
+
+7. Refine and update
+After the release of a product when users start using it and successfully achieve their goals, the responsibility of UI/UX designers is still coming along. The UX/UI designers continue their work to keep the product updated as per new UI and UX design trends.
+* Further testing and evaluation
+* Improvements and new features
+* Redesign
+	BHAVANS COLLEGE AUTONOMOUS, ANDHERI WEST 
+PRACTICAL JOURNAL 
+Class: _TYBSCIT_                            Sem:       6                         Roll No :  TYIT 57     
+
+Course  Name: UI/UX Design for Entrepreneurs           Course  Number:BH.USITS6P1    
+
+
+
+
+

@@ -1,0 +1,36 @@
+Practical No.
+Design the UI using Active element of user interface.
+Active elements:- In user interface (UI) design, an "active element" typically refers to any interactive component that responds to user input or manipulation. These elements are fundamental to creating engaging and functional interfaces.
+Active Elements are as follows:-
+1.Button:- In user interface (UI) design, an "active element" typically refers to any interactive component that responds to user input or manipulation. These elements are fundamental to creating engaging and functional interfaces.
+2.Links:- Links are active elements that navigate users to different pages or sections within an application or website when clicked. They are often styled differently from regular text to indicate their interactive nature.
+3.Input fields:- Input fields allow users to enter data, such as text, numbers, or selections. They become active when users click or tap on them, enabling text entry or selection.
+4.Checkboxes:- A check box is used to select or deselect action items. It can be used for a single item or for a list of multiple items that a user can choose from. The control has three selection states: unselected, selected, and indeterminate.
+5. Radio button:- Radio buttons are input elements that allow users to select a single option from a set of mutually exclusive choices. They are typically presented as small circles or round buttons next to the available options.
+6. Drop down:- A Dropdown that presents a list of options in a compact form where only one option can be selected at a time. They become active when clicked or tapped, revealing the available options.
+Steps:
+Step 1:-  Open Figma: Launch Figma and create a new project.
+
+Step 2:- Set up Frame: Create a new frame to represent your design canvas.
+
+Step 3:- Change the page color to any other color as per your likeness, so that we can see our frame easily without any disruption
+
+
+Step 4:- Now select  Basic Shapes: Use simple shapes (rectangles, circles,lines,arrow, etc.) to represent major elements like buttons, images, and text boxes.
+
+Step 5:- For dropdown we can use polygon from basic shapes icons and for links line are using with highlighted color
+Step 6:- As for checkboxes ,radio button we can use rectangle, ellipse etc from the shapes icons.
+Step 7: Now repeat above steps & make customize Template base on our need 
+Step 8: Now Save it .
+Output:
+
+
+
+
+	BHAVANS COLLEGE AUTONOMOUS, ANDHERI WEST 
+PRACTICAL JOURNAL 
+Class: _TYBSCIT_                            Sem:       6                         Roll No :  TYIT 57     
+
+Course  Name: UI/UX Design for Entrepreneurs           Course  Number:BH.USITS6P1 
+
+

@@ -1,0 +1,32 @@
+PRACTICAL No. 2
+Design a UI using an existing Template.
+STEPS: 
+Step 1: Open figma.com -> click on Browse Template
+
+Step 2: Now One window will open which show us different Template Design 
+
+Step 3: Select a Template -> Click on the template that best fits your project requirements.
+
+Step 4: Explore the Template -> Take some time to explore the components, layouts, and design elements provided in the template.
+ Step 5: Customize the UI -> Modify the template. Use Figma's tools like the selection tool, text tool, shape tools, etc to make changes.
+
+
+Step 6: Adding or Remove Components -> Depending on our project requirements, we may need to add or remove components. Use the components provided in the template or create your own using Figma's design tools.
+
+Step 7: Now repeat above steps & make customize Template base on our need 
+Step 8: Now Save it .
+Output:
+
+
+	BHAVANS COLLEGE AUTONOMOUS, ANDHERI WEST 
+PRACTICAL JOURNAL 
+Class: _TYBSCIT_                            Sem:       6                         Roll No :  TYIT 57     
+
+Course  Name: UI/UX Design for Entrepreneurs           Course  Number:BH.USITS6P1 
+
+
+__________________
+Teacher Signature
+
+
+

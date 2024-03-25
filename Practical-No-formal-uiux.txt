@@ -1,0 +1,48 @@
+Practical No.
+Design the UI using any formal elements of Interface Design.
+Formal element:- Formal elements in UI design are the fundamental visual and structural components that contribute to the overall aesthetics, usability, and functionality of an interface. 
+Some formal elements are as follows:-
+1.Language:- In UI design, language refers to the words, phrases, and terminology used throughout the interface. It includes labels, instructions, error messages, and other textual content that guides users and communicates information
+2. Color:- Color plays a crucial role in UI design, conveying meaning, enhancing visual hierarchy, and evoking emotions. Designers use color palettes strategically to create contrast, highlight important elements, and maintain visual consistency across the interface. 
+3.Shape:- Shape refers to the form and outline of visual elements within the UI, such as buttons, icons, and images. Shapes can convey meaning, evoke emotions, and guide user attention. Different shapes have symbolic associations and cultural meanings that can influence user perception
+4.Typography:- The different parts that make up a letterform, the fundamental unit of typography, are referred to as the anatomy of typography. Designers should be familiar with the anatomy of typography because it helps them select typefaces that blend well and produce beautiful designs.
+5.Icon:- Icons are frequently used to convey complex concepts or actions clearly and recognizably. It is an essential aspect of interface design because it contributes to a more intuitive and easy-to-navigate user interface.
+6.Images:- The interface design's images and graphics element involves using visual content such as photographs, illustrations, icons, and other graphic elements to enhance the user experience and communicate information.
+Steps:
+Step 1: Open figma.com -> click on Browse Template
+
+Step 2: Now One window will open which show us different Template Design 
+
+Step 3: Select a Template -> Click on the template that best fits your project requirements.
+
+Step 4: Customize the UI -> Modify the template. Use Figma's tools like the selection tool, text tool, shape tools, etc to make changes.
+
+Step 5:-To import iamges on your ui click on shapes icon->now click on place iamge icon and select required image and click on open
+
+
+Step 6: Adding or Remove Components -> Depending on our project requirements, we may need to add or remove components. Use the components provided in the template or create your own using Figma's design tools.
+
+Step 7: Now repeat above steps & make customize Template base on our need 
+Step 8: Now Save it .
+Output:
+
+
+
+
+
+
+
+
+
+	
+
+	BHAVANS COLLEGE AUTONOMOUS, ANDHERI WEST 
+PRACTICAL JOURNAL 
+Class: _TYBSCIT_                            Sem:       6                         Roll No :  TYIT 57     
+
+Course  Name: UI/UX Design for Entrepreneurs           Course  Number:BH.USITS6P1 
+
+
+__________________
+Teacher Signature
+

@@ -1,0 +1,108 @@
+  BHAVANS COLLEGE AUTONOMOUS, ANDHERI WEST
+             PRACTICAL JOURNAL
+Class: _TYBSCIT_               Sem:    6             Roll No : TYIT 57
+
+Course Name: UI/UX Design for Entrepreneurs     Course Number:BH.USITS6P1
+
+                              Practical No. 8
+Build a low fidelity wireframe without using any wireframe tools.
+Steps:-
+Step 1: Open Figma: Launch Figma and create a new project
+Step 2: Set up Frame: Create a new frame to represent your design
+canvas.
+
+
+Step 3: Change the page color to any other color as per your likeness,
+so that we can see our frame easily without any disruption
+Step 4: Basic Shapes: Use simple shapes (rectangles, circles, etc.) to
+represent major elements like buttons, images, and text boxes
+
+
+Step 5: Instead of real content, use lines to represent the text, boxes to
+represent background, cross to represent image and so on.
+Step 6: Limited Detail: Avoid intricate details at this stage. Focus on
+conveying the essential components without getting into specifics.
+Step 7: Color Palette: Stick to a grayscale or limited color palette.
+
+
+
+
+                                                          __________________
+                                                            Teacher Signature
+   BHAVANS COLLEGE AUTONOMOUS, ANDHERI WEST
+              PRACTICAL JOURNAL
+Class: _TYBSCIT_                 Sem:     6             Roll No : TYIT 57
+
+Course Name: UI/UX Design for Entrepreneurs        Course Number:BH.USITS6P1
+
+Output:
+
+
+                                  Page 1: Homepage
+                                  This page shows on going live events, popular
+                                  movies and various shows etc of your
+                                  interests. Also has many sections that are
+                                  recommended to you.
+
+
+
+
+Page 2 : Profile page
+This page contains all your details and has edit
+option . There are also some features to make
+it more responsive.
+
+
+
+
+                                                             __________________
+                                                               Teacher Signature
+   BHAVANS COLLEGE AUTONOMOUS, ANDHERI WEST
+              PRACTICAL JOURNAL
+Class: _TYBSCIT_                Sem:     6             Roll No : TYIT 57
+
+Course Name: UI/UX Design for Entrepreneurs     Course Number:BH.USITS6P1
+
+                               Page 3 : Search page
+                               This page is used for searching for any movies,
+                               shows and sporting event.
+                               It also recommend movies, shows etc according
+                               to your search items.
+
+
+
+
+Page 4 : Search result page
+This page gives you the result of your
+searched item.
+
+
+
+
+                                                            __________________
+                                                              Teacher Signature
+  BHAVANS COLLEGE AUTONOMOUS, ANDHERI WEST
+             PRACTICAL JOURNAL
+Class: _TYBSCIT_               Sem:     6             Roll No : TYIT 57
+
+Course Name: UI/UX Design for Entrepreneurs     Course Number:BH.USITS6P1
+
+                                Page 5: Streaming page
+                                This is the page where one is streaming its any
+                                movies or shows . They can also share or
+                                download any movies or shows.
+
+
+
+
+Page 6 : Browse page
+This page is for quick search for any
+news, sports or any downloaded items and
+watchlists one had store , can be seen.
+
+
+
+
+                                                            __________________
+                                                              Teacher Signature
+
